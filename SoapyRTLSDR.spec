@@ -39,7 +39,7 @@ ldconfig
 %files
 %defattr(-,root,root,-)
 %doc LICENSE.txt README.md
-%{_libdir}/SoapySDR/modules0.6/librtlsdrSupport.so
+%{_libdir}/SoapySDR/modules*/librtlsdrSupport.so
 
 %changelog
 

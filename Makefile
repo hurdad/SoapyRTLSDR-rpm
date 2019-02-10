@@ -1,5 +1,5 @@
 # SoapyRTLSDR
-version = 0.2.5
+version = 0.3.0
 name = SoapyRTLSDR
 full_name = $(name)-$(version)
 download_url = "https://github.com/pothosware/$(name)/archive/soapy-rtlsdr-$(version).tar.gz"
